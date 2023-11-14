@@ -1,0 +1,182 @@
+2023-11-05 23:41:00 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f8dcb51f000; archive(resolved)="<IDEArchive: 0x60001a9dc000>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x6000012959c0; teamID='9ZBB7384W6', teamName='Istanbul Buyuksehir Belediye Baskanligi', teamType='Enterprise', username='mustafa.canak@ibb.gov.tr', isFreeProvisioningTeam='0'>">
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f8dcb51f000; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000012959c0; teamID='9ZBB7384W6', teamName='Istanbul Buyuksehir Belediye Baskanligi', teamType='Enterprise', username='mustafa.canak@ibb.gov.tr', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7f8dc9d0dda0; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000012959c0; teamID='9ZBB7384W6', teamName='Istanbul Buyuksehir Belediye Baskanligi', teamType='Enterprise', username='mustafa.canak@ibb.gov.tr', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8dcac46d90; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000012959c0; teamID='9ZBB7384W6', teamName='Istanbul Buyuksehir Belediye Baskanligi', teamType='Enterprise', username='mustafa.canak@ibb.gov.tr', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8db383a7c0; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000012959c0; teamID='9ZBB7384W6', teamName='Istanbul Buyuksehir Belediye Baskanligi', teamType='Enterprise', username='mustafa.canak@ibb.gov.tr', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8dcac6e680; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000012959c0; teamID='9ZBB7384W6', teamName='Istanbul Buyuksehir Belediye Baskanligi', teamType='Enterprise', username='mustafa.canak@ibb.gov.tr', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8dcb694210; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000012959c0; teamID='9ZBB7384W6', teamName='Istanbul Buyuksehir Belediye Baskanligi', teamType='Enterprise', username='mustafa.canak@ibb.gov.tr', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8dc781c600; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000012959c0; teamID='9ZBB7384W6', teamName='Istanbul Buyuksehir Belediye Baskanligi', teamType='Enterprise', username='mustafa.canak@ibb.gov.tr', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8dcab4e970; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000012959c0; teamID='9ZBB7384W6', teamName='Istanbul Buyuksehir Belediye Baskanligi', teamType='Enterprise', username='mustafa.canak@ibb.gov.tr', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8db389d6c0; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000012959c0; teamID='9ZBB7384W6', teamName='Istanbul Buyuksehir Belediye Baskanligi', teamType='Enterprise', username='mustafa.canak@ibb.gov.tr', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8dcb74a4c0; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="(null)">
+	<IDEDistributionContext: 0x7f8db0831ee0; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="(null)">
+	<IDEDistributionContext: 0x7f8dcaa60390; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="(null)">
+	<IDEDistributionContext: 0x7f8dd8a08450; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="<IDEDistributionMethodiOSEnterprise: 0x600018fa07f0>", team="(null)">
+	<IDEDistributionContext: 0x7f8dcb369090; archive = "<IDEArchive: 0x60001a9dc000>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7f8dcb51f000>
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionCopyItemStep
+2023-11-05 23:41:00 +0000  Running /usr/bin/ditto '-V' '/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app' '/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app'
+2023-11-05 23:41:00 +0000  >>> Copying /Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app 
+2023-11-05 23:41:00 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-11-05 23:41:00 +0000  4701 bytes for ./_CodeSignature/CodeResources
+2023-11-05 23:41:00 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2023-11-05 23:41:00 +0000  935 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2023-11-05 23:41:00 +0000  1197 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2023-11-05 23:41:00 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2023-11-05 23:41:00 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-11-05 23:41:00 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-11-05 23:41:00 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2023-11-05 23:41:00 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2023-11-05 23:41:00 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2023-11-05 23:41:00 +0000  copying file ./Frameworks/IStar.framework/_CodeSignature/CodeResources ... 
+2023-11-05 23:41:00 +0000  1798 bytes for ./Frameworks/IStar.framework/_CodeSignature/CodeResources
+2023-11-05 23:41:00 +0000  copying file ./Frameworks/IStar.framework/IStar ... 
+2023-11-05 23:41:00 +0000  113808 bytes for ./Frameworks/IStar.framework/IStar
+2023-11-05 23:41:00 +0000  copying file ./Frameworks/IStar.framework/Info.plist ... 
+2023-11-05 23:41:00 +0000  739 bytes for ./Frameworks/IStar.framework/Info.plist
+2023-11-05 23:41:00 +0000  copying file ./embedded.mobileprovision ... 
+2023-11-05 23:41:00 +0000  25079 bytes for ./embedded.mobileprovision
+2023-11-05 23:41:00 +0000  copying file ./demoInsider ... 
+2023-11-05 23:41:00 +0000  89792 bytes for ./demoInsider
+2023-11-05 23:41:00 +0000  copying file ./Info.plist ... 
+2023-11-05 23:41:00 +0000  1469 bytes for ./Info.plist
+2023-11-05 23:41:00 +0000  copying file ./PkgInfo ... 
+2023-11-05 23:41:00 +0000  8 bytes for ./PkgInfo
+2023-11-05 23:41:00 +0000  /usr/bin/ditto exited with 0
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-11-05 23:41:00 +0000  Skipping profile for item: <IDEDistributionItem: 0x60001a6a87e0; bundleID='com.framework.IStar', path='<DVTFilePath:0x60001a7da0d0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/Frameworks/IStar.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001ecef890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000bb7d810; name='Apple Development: Mustafa Çanak (LQ272C9BFD)', hash='B52B6F6FFF3C6B23A1ADD43C8BADCB163F8E8A98', serialNumber='67ACAC1279B51B23C146F590C693B13B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-07-10 11:25:57 +0000''>', entitlements='(null)', teamID='9ZBB7384W6', identifier='com.framework.IStar', executablePath='<DVTFilePath:0x60001a6a68e0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/Frameworks/IStar.framework/IStar'>', hardenedRuntime='0'>'>
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-11-05 23:41:00 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-05 23:41:00 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-11-05 23:41:00 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-11-05 23:41:00 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-11-05 23:41:00 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-05 23:41:00 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionSymbolsStep
+2023-11-05 23:41:00 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-05 23:41:00 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionAppThinningStep
+2023-11-05 23:41:00 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionArchThinningStep
+2023-11-05 23:41:00 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app/Frameworks/IStar.framework/IStar' '-verify_arch' 'arm64e'
+2023-11-05 23:41:00 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-05 23:41:00 +0000  Skipping architecture thinning for item "IStar" because arch "arm64e" wasn't found
+2023-11-05 23:41:00 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app/demoInsider' '-verify_arch' 'arm64e'
+2023-11-05 23:41:00 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-11-05 23:41:00 +0000  Skipping architecture thinning for item "demoInsider" because arch "arm64e" wasn't found
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionODRStep
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-11-05 23:41:00 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x60001a6a87e0; bundleID='com.framework.IStar', path='<DVTFilePath:0x60001a7da0d0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/Frameworks/IStar.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001ecef890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000bb67440; name='Apple Development: Mustafa Çanak (LQ272C9BFD)', hash='B52B6F6FFF3C6B23A1ADD43C8BADCB163F8E8A98', serialNumber='67ACAC1279B51B23C146F590C693B13B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-07-10 11:25:57 +0000''>', entitlements='(null)', teamID='9ZBB7384W6', identifier='com.framework.IStar', executablePath='<DVTFilePath:0x60001a6a68e0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/Frameworks/IStar.framework/IStar'>', hardenedRuntime='0'>'>
+2023-11-05 23:41:00 +0000  Running /usr/bin/xattr '-crs' '/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app'
+2023-11-05 23:41:00 +0000  /usr/bin/xattr exited with 0
+2023-11-05 23:41:00 +0000  Processing step: IDEDistributionCodesignStep
+2023-11-05 23:41:00 +0000  Entitlements for <IDEDistributionItem: 0x60001a6a87e0; bundleID='com.framework.IStar', path='<DVTFilePath:0x60001a7da0d0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/Frameworks/IStar.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001ecef890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000bb6d130; name='Apple Development: Mustafa Çanak (LQ272C9BFD)', hash='B52B6F6FFF3C6B23A1ADD43C8BADCB163F8E8A98', serialNumber='67ACAC1279B51B23C146F590C693B13B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-07-10 11:25:57 +0000''>', entitlements='(null)', teamID='9ZBB7384W6', identifier='com.framework.IStar', executablePath='<DVTFilePath:0x60001a6a68e0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/Frameworks/IStar.framework/IStar'>', hardenedRuntime='0'>'>: {
+}
+2023-11-05 23:41:00 +0000  Entitlements for <IDEDistributionItem: 0x60001a6a87e0; bundleID='com.framework.IStar', path='<DVTFilePath:0x60001a7da0d0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/Frameworks/IStar.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001ecef890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000bb6cdc0; name='Apple Development: Mustafa Çanak (LQ272C9BFD)', hash='B52B6F6FFF3C6B23A1ADD43C8BADCB163F8E8A98', serialNumber='67ACAC1279B51B23C146F590C693B13B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-07-10 11:25:57 +0000''>', entitlements='(null)', teamID='9ZBB7384W6', identifier='com.framework.IStar', executablePath='<DVTFilePath:0x60001a6a68e0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/Frameworks/IStar.framework/IStar'>', hardenedRuntime='0'>'> are: {
+}
+2023-11-05 23:41:00 +0000  Writing entitlements for <IDEDistributionItem: 0x60001a6a87e0; bundleID='com.framework.IStar', path='<DVTFilePath:0x60001a7da0d0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/Frameworks/IStar.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001ecef890; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000bb6e050; name='Apple Development: Mustafa Çanak (LQ272C9BFD)', hash='B52B6F6FFF3C6B23A1ADD43C8BADCB163F8E8A98', serialNumber='67ACAC1279B51B23C146F590C693B13B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-07-10 11:25:57 +0000''>', entitlements='(null)', teamID='9ZBB7384W6', identifier='com.framework.IStar', executablePath='<DVTFilePath:0x60001a6a68e0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/Frameworks/IStar.framework/IStar'>', hardenedRuntime='0'>'> to: /var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/entitlements~~~auEfyk
+2023-11-05 23:41:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'DA37B0E4B7F9F9047D236BF6DD62ABA28E222DE2' '--entitlements' '/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/entitlements~~~auEfyk' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app/Frameworks/IStar.framework'
+2023-11-05 23:41:01 +0000  /var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app/Frameworks/IStar.framework: replacing existing signature
+2023-11-05 23:41:01 +0000  /var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app/Frameworks/IStar.framework: signed bundle with Mach-O thin (arm64) [com.framework.IStar]
+2023-11-05 23:41:01 +0000  /usr/bin/codesign exited with 0
+2023-11-05 23:41:01 +0000  Entitlements for <IDEDistributionItem: 0x60001a6a8960; bundleID='com.demo.Insider', path='<DVTFilePath:0x6000165899d0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001ef64550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000bb67440; name='Apple Development: Mustafa Çanak (LQ272C9BFD)', hash='B52B6F6FFF3C6B23A1ADD43C8BADCB163F8E8A98', serialNumber='67ACAC1279B51B23C146F590C693B13B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-07-10 11:25:57 +0000''>', entitlements='{
+    "application-identifier" = "9ZBB7384W6.com.demo.Insider";
+    "com.apple.developer.team-identifier" = 9ZBB7384W6;
+    "get-task-allow" = 1;
+}', teamID='9ZBB7384W6', identifier='com.demo.Insider', executablePath='<DVTFilePath:0x60001a776df0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/demoInsider'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "9ZBB7384W6.com.demo.Insider";
+    "com.apple.developer.team-identifier" = 9ZBB7384W6;
+    "get-task-allow" = 0;
+}
+2023-11-05 23:41:01 +0000  Entitlements for <IDEDistributionItem: 0x60001a6a8960; bundleID='com.demo.Insider', path='<DVTFilePath:0x6000165899d0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001ef64550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000bb6eaa0; name='Apple Development: Mustafa Çanak (LQ272C9BFD)', hash='B52B6F6FFF3C6B23A1ADD43C8BADCB163F8E8A98', serialNumber='67ACAC1279B51B23C146F590C693B13B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-07-10 11:25:57 +0000''>', entitlements='{
+    "application-identifier" = "9ZBB7384W6.com.demo.Insider";
+    "com.apple.developer.team-identifier" = 9ZBB7384W6;
+    "get-task-allow" = 1;
+}', teamID='9ZBB7384W6', identifier='com.demo.Insider', executablePath='<DVTFilePath:0x60001a776df0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/demoInsider'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "9ZBB7384W6.com.demo.Insider";
+    "com.apple.developer.team-identifier" = 9ZBB7384W6;
+    "get-task-allow" = 0;
+}
+2023-11-05 23:41:01 +0000  Writing entitlements for <IDEDistributionItem: 0x60001a6a8960; bundleID='com.demo.Insider', path='<DVTFilePath:0x6000165899d0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x60001ef64550; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x60000bb6cdc0; name='Apple Development: Mustafa Çanak (LQ272C9BFD)', hash='B52B6F6FFF3C6B23A1ADD43C8BADCB163F8E8A98', serialNumber='67ACAC1279B51B23C146F590C693B13B', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2023-07-10 11:25:57 +0000''>', entitlements='{
+    "application-identifier" = "9ZBB7384W6.com.demo.Insider";
+    "com.apple.developer.team-identifier" = 9ZBB7384W6;
+    "get-task-allow" = 1;
+}', teamID='9ZBB7384W6', identifier='com.demo.Insider', executablePath='<DVTFilePath:0x60001a776df0:'/Users/admin/Library/Developer/Xcode/Archives/2023-11-06/demoInsider 6.11.2023 02.40.xcarchive/Products/Applications/demoInsider.app/demoInsider'>', hardenedRuntime='0'>'> to: /var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/entitlements~~~R0mcKJ
+2023-11-05 23:41:01 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'DA37B0E4B7F9F9047D236BF6DD62ABA28E222DE2' '--entitlements' '/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/entitlements~~~R0mcKJ' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app'
+2023-11-05 23:41:02 +0000  /var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app: replacing existing signature
+2023-11-05 23:41:02 +0000  /var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app: signed app bundle with Mach-O thin (arm64) [com.demo.Insider]
+2023-11-05 23:41:02 +0000  /usr/bin/codesign exited with 0
+2023-11-05 23:41:02 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-11-05 23:41:02 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-05 23:41:02 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-11-05 23:41:02 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-11-05 23:41:02 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root' '/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Packages/demoInsider.ipa'
+2023-11-05 23:41:02 +0000  >>> Copying /var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root 
+2023-11-05 23:41:02 +0000  copying file ./Payload/demoInsider.app/_CodeSignature/CodeResources ... 
+2023-11-05 23:41:02 +0000  4701 bytes for ./Payload/demoInsider.app/_CodeSignature/CodeResources
+2023-11-05 23:41:02 +0000  copying file ./Payload/demoInsider.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2023-11-05 23:41:02 +0000  935 bytes for ./Payload/demoInsider.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2023-11-05 23:41:02 +0000  copying file ./Payload/demoInsider.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2023-11-05 23:41:02 +0000  1197 bytes for ./Payload/demoInsider.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/demoInsider.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2023-11-05 23:41:02 +0000  258 bytes for ./Payload/demoInsider.app/Base.lproj/Main.storyboardc/Info.plist
+2023-11-05 23:41:02 +0000  copying file ./Payload/demoInsider.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2023-11-05 23:41:02 +0000  1197 bytes for ./Payload/demoInsider.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2023-11-05 23:41:02 +0000  copying file ./Payload/demoInsider.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2023-11-05 23:41:02 +0000  896 bytes for ./Payload/demoInsider.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/demoInsider.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2023-11-05 23:41:02 +0000  258 bytes for ./Payload/demoInsider.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2023-11-05 23:41:02 +0000  copying file ./Payload/demoInsider.app/Frameworks/IStar.framework/_CodeSignature/CodeResources ... 
+2023-11-05 23:41:02 +0000  1798 bytes for ./Payload/demoInsider.app/Frameworks/IStar.framework/_CodeSignature/CodeResources
+copying file ./Payload/demoInsider.app/Frameworks/IStar.framework/IStar ... 
+2023-11-05 23:41:02 +0000  114080 bytes for ./Payload/demoInsider.app/Frameworks/IStar.framework/IStar
+2023-11-05 23:41:02 +0000  copying file ./Payload/demoInsider.app/Frameworks/IStar.framework/Info.plist ... 
+739 bytes for ./Payload/demoInsider.app/Frameworks/IStar.framework/Info.plist
+2023-11-05 23:41:02 +0000  copying file ./Payload/demoInsider.app/embedded.mobileprovision ... 
+2023-11-05 23:41:02 +0000  16421 bytes for ./Payload/demoInsider.app/embedded.mobileprovision
+copying file ./Payload/demoInsider.app/demoInsider ... 
+2023-11-05 23:41:02 +0000  89808 bytes for ./Payload/demoInsider.app/demoInsider
+copying file ./Payload/demoInsider.app/Info.plist ... 
+2023-11-05 23:41:02 +0000  1469 bytes for ./Payload/demoInsider.app/Info.plist
+2023-11-05 23:41:02 +0000  copying file ./Payload/demoInsider.app/PkgInfo ... 
+8 bytes for ./Payload/demoInsider.app/PkgInfo
+2023-11-05 23:41:02 +0000  /usr/bin/ditto exited with 0
+2023-11-05 23:41:02 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-11-05 23:41:02 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-11-05 23:41:02 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-11-05 23:41:02 +0000  IDEDistributionItem init <DVTFilePath:0x60001a7590a0:'/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app/Frameworks/IStar.framework'>
+2023-11-05 23:41:02 +0000  IDEDistributionItem init <DVTFilePath:0x60001a755c70:'/var/folders/vr/xfz2kk153ys183_3z7w528hc0000gn/T/XcodeDistPipeline.~~~uxD7xg/Root/Payload/demoInsider.app'>
+2023-11-05 23:41:02 +0000  Processing step: IDEDistributionCreateManifestStep
